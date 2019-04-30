@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ais_foa</string>
+				<string>FOA 8</string>
 			</dict>
 			<key>thinned-assets</key>
 			<array>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1-iPad%20(4th%20generation)-etc?fileName=installPKG/ais_foa.ipa</string>
+					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1?fileName=installPKG/ais_foa.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1-iPad%202-etc?fileName=installPKG/ais_foa.ipa</string>
+					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1?fileName=installPKG/ais_foa.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1-iPad%20Pro%20(12.9-inch)-etc?fileName=installPKG/ais_foa.ipa</string>
+					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1?fileName=installPKG/ais_foa.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -108,7 +108,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1-iPhone%206%20Plus-etc?fileName=installPKG/ais_foa.ipa</string>
+					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1?fileName=installPKG/ais_foa.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -125,7 +125,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1-iPhone%20SE-etc?fileName=installPKG/ais_foa.ipa</string>
+					<string>https://10.137.28.209:7107/foa/push/version/updateVersion/v1?fileName=installPKG/ais_foa.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
